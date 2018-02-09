@@ -21,3 +21,14 @@ Filtering on Yik Yak](http://socialmedia.soc.northwestern.edu/wp-content/uploads
 
 [Key takeaways on how Americans view – and experience – online harassment](http://www.pewresearch.org/fact-tank/2017/07/11/key-takeaways-online-harassment/)
 
+[Jennifer Lawrence Calls Photo Hacking a “Sex Crime”](https://www.vanityfair.com/hollywood/2014/10/jennifer-lawrence-cover)
+
+[Deepfakes Still Exist, Amid Twitter and Pornhub Bans](https://www.inverse.com/article/41017-pornhub-says-it-s-banning-deepfakes-as-the-internet-cracks-down-on-ai-porn)
+
+[AI-Assisted Fake Porn Is Here and We’re All Fucked](https://motherboard.vice.com/en_us/article/gydydm/gal-gadot-fake-ai-porn)
+
+[People Are Using AI to Create Fake Porn of Their Friends and Classmates](https://motherboard.vice.com/en_us/article/ev5eba/ai-fake-porn-of-friends-deepfakes)
+
+[The Nude Hunters: How Sad Forum Guys Trade Naked Snapchats Like Baseball Cards](https://motherboard.vice.com/en_us/article/ae3xeb/the-nude-hunters-how-sad-forum-guys-trade-naked-snapchats-like-baseball-cards)
+
+[Actually, Facebook Will Not Blur the Nudes Sent to Its Anti-Revenge Porn Program](https://motherboard.vice.com/en_us/article/3kvje3/actually-facebook-will-not-blur-the-nudes-sent-to-its-anti-revenge-porn-program)
