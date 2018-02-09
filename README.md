@@ -1,1 +1,2 @@
-# info-ethics-semester-project
+# Info Ethics Semester Project
+
