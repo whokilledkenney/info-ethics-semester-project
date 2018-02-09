@@ -13,3 +13,5 @@
 [Doxxing White Supremists is Making Them Scared](https://broadly.vice.com/en_us/article/7xxbez/doxxing-white-supremacists-is-making-them-terrified)
 
 [How ‘Doxxing’ Became a Mainstream Tool in the Culture Wars](https://www.nytimes.com/2017/08/30/technology/doxxing-protests.html)
+
+[Feminist Critics of Video Games Facing Threats in ‘GamerGate’ Campaign](https://www.nytimes.com/2014/10/16/technology/gamergate-women-video-game-threats-anita-sarkeesian.html?action=click&contentCollection=Technology&module=RelatedCoverage&region=EndOfArticle&pgtype=article)
