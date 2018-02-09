@@ -31,4 +31,4 @@ Filtering on Yik Yak](http://socialmedia.soc.northwestern.edu/wp-content/uploads
 
 [The Nude Hunters: How Sad Forum Guys Trade Naked Snapchats Like Baseball Cards](https://motherboard.vice.com/en_us/article/ae3xeb/the-nude-hunters-how-sad-forum-guys-trade-naked-snapchats-like-baseball-cards)
 
-[Actually, Facebook Will Not Blur the Nudes Sent to Its Anti-Revenge Porn Program](https://motherboard.vice.com/en_us/article/3kvje3/actually-facebook-will-not-blur-the-nudes-sent-to-its-anti-revenge-porn-program)
+[Actually, Facebook Will Not Blur the Nudes Sent to Its Anti-Revenge Porn Program](https://motherboard.vice.com/en_us/article/3kvje3/actually-facebook-will-not-blur-the-nudes-sent-to-its-anti-revenge-porn-program) & [Real Humans Will Review the Nudes You Send Facebook as Part of Its Anti-Revenge Porn Program](https://motherboard.vice.com/en_us/article/d3d5gx/real-humans-will-review-the-nudes-you-send-facebook-as-part-of-its-anti-revenge-porn-program)
