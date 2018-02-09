@@ -50,3 +50,23 @@ Filtering on Yik Yak](http://socialmedia.soc.northwestern.edu/wp-content/uploads
 [Defining 'Hate Speech' Online Is an Imperfect Art](https://www.wired.com/story/defining-hate-speech-online-is-imperfect-art-as-much-as-science/)
 
 [Ethical Tech Will Require a Grassroots Revolution](https://www.wired.com/story/center-for-humane-technology-tech-addiction/)
+
+[Redditors on r/Anarchism Are Angry That They Have to Follow the Rules](https://motherboard.vice.com/en_us/article/vv5vka/redditors-on-ranarchism-are-angry-that-they-have-to-follow-the-rules)
+
+[Here’s where ‘deepfakes,’ the fake celebrity porn, went after the Reddit ban](https://www.dailydot.com/unclick/deepfake-sites-reddit-ban/)
+
+[Can anyone stop the rise of fake celebrity porn?](https://www.dailydot.com/unclick/fake-celebrity-porn-deepfakes/)
+
+[Reddit unites against proposal to end net neutrality](https://www.dailydot.com/debug/reddit-net-neutrality-caution/)
+
+[Reddit cracks down on neo-Nazi groups with updated policy on violence](https://www.dailydot.com/debug/reddit-ban-hate-groups/)
+
+[Meet The_Mueller, the Reddit community mocking Trump fans one meme at a time](https://www.dailydot.com/layer8/the-mueller-reddit-russia-donald-trump/)
+
+[Inside Facebook's Fast-Growing Content-Moderation Effort](https://www.theatlantic.com/technology/archive/2018/02/what-facebook-told-insiders-about-how-it-moderates-posts/552632/)
+
+[‘The Basic Grossness of Humans’](https://www.theatlantic.com/technology/archive/2017/12/the-basic-grossness-of-humans/548330/)
+
+[History of Content moderation](https://escholarship.org/uc/item/7371c1hf)
+
+[The digital world needs new lawmakers](https://gigaom.com/2018/02/06/the-digital-world-needs-new-lawmakers/)
