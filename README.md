@@ -32,3 +32,21 @@ Filtering on Yik Yak](http://socialmedia.soc.northwestern.edu/wp-content/uploads
 [The Nude Hunters: How Sad Forum Guys Trade Naked Snapchats Like Baseball Cards](https://motherboard.vice.com/en_us/article/ae3xeb/the-nude-hunters-how-sad-forum-guys-trade-naked-snapchats-like-baseball-cards)
 
 [Actually, Facebook Will Not Blur the Nudes Sent to Its Anti-Revenge Porn Program](https://motherboard.vice.com/en_us/article/3kvje3/actually-facebook-will-not-blur-the-nudes-sent-to-its-anti-revenge-porn-program) & [Real Humans Will Review the Nudes You Send Facebook as Part of Its Anti-Revenge Porn Program](https://motherboard.vice.com/en_us/article/d3d5gx/real-humans-will-review-the-nudes-you-send-facebook-as-part-of-its-anti-revenge-porn-program)
+
+[PEOPLE CAN PUT YOUR FACE ON PORN—AND THE LAW CAN'T HELP YOU](https://www.wired.com/story/face-swap-porn-legal-limbo/)
+
+[Our Best Hope for Civil Discourse Online Is on ... Reddit](https://www.wired.com/story/free-speech-issue-reddit-change-my-view/)
+
+[Imzy: Can an Ex-Reddit Exec Really Hack the Online Abuse Problem?](https://www.wired.com/2016/05/imzy/)
+
+[Abusers Could Use This Parenting Service to Secretly Track an Ex’s Tinder Usage](https://motherboard.vice.com/en_us/article/kb7zky/abusers-could-use-this-parenting-service-to-secretly-track-an-exs-tinder-usage-teensafe)
+
+[Facebook’s Secret Censorship Rules Protect White Men From Hate Speech But Not Black Children](https://www.propublica.org/article/facebook-hate-speech-censorship-internal-documents-algorithms)
+
+[Despite Disavowals, Leading Tech Companies Help Extremist Sites Monetize Hate](https://www.propublica.org/article/leading-tech-companies-help-extremist-sites-monetize-hate)
+
+[How One Woman's Digital Life Was Weaponized Against Her](https://www.wired.com/story/how-one-womans-digital-life-was-weaponized-against-her/)
+
+[Defining 'Hate Speech' Online Is an Imperfect Art](https://www.wired.com/story/defining-hate-speech-online-is-imperfect-art-as-much-as-science/)
+
+[Ethical Tech Will Require a Grassroots Revolution](https://www.wired.com/story/center-for-humane-technology-tech-addiction/)
