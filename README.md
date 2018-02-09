@@ -70,3 +70,19 @@ Filtering on Yik Yak](http://socialmedia.soc.northwestern.edu/wp-content/uploads
 [History of Content moderation](https://escholarship.org/uc/item/7371c1hf)
 
 [The digital world needs new lawmakers](https://gigaom.com/2018/02/06/the-digital-world-needs-new-lawmakers/)
+
+[Facebook Only Cares About Facebook](https://www.theatlantic.com/technology/archive/2018/01/facebook-doesnt-care/551684/)
+
+[Net-connected vibrator collects users' intimate data, lawsuit claims](https://www.nbcnews.com/tech/tech-news/net-connected-vibrator-collects-users-intimate-data-lawsuit-claims-n843566)
+
+[Twitch’s new sexual content guidelines are head-scratchingly bad](https://thenextweb.com/gaming/2018/02/09/twitchs-new-sexual-content-guidelines-head-scratchingly-bad/)
+
+[This virtual keyboard wants people to rethink the language used to describe girls](https://thenextweb.com/apps/2018/02/07/this-virtual-keyboard-wants-you-to-reconsider-the-language-you-use-to-describe-girls/)
+
+[Cynicism and trolling have ruined an experiment in digital democracy](https://thenextweb.com/uk/2018/02/02/cynicism-and-trolling-have-ruined-an-experiment-in-digital-democracy/)
+
+[Digital democracy's steep decline](https://www.engadget.com/2017/11/17/digital-democracys-steep-decline/)
+
+[Online harm is real](http://www.slate.com/articles/technology/future_tense/2016/11/sexual_harassment_in_virtual_reality_is_real.html)
+
+[]()
