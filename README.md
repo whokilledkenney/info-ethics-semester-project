@@ -15,3 +15,9 @@
 [How ‘Doxxing’ Became a Mainstream Tool in the Culture Wars](https://www.nytimes.com/2017/08/30/technology/doxxing-protests.html)
 
 [Feminist Critics of Video Games Facing Threats in ‘GamerGate’ Campaign](https://www.nytimes.com/2014/10/16/technology/gamergate-women-video-game-threats-anita-sarkeesian.html?action=click&contentCollection=Technology&module=RelatedCoverage&region=EndOfArticle&pgtype=article)
+
+[(In)visible Cities: An Exploration of Social Identity, Anonymity and Location-Based
+Filtering on Yik Yak](http://socialmedia.soc.northwestern.edu/wp-content/uploads/2015/12/InvisibleCities_iConference_preprint.pdf)
+
+[Key takeaways on how Americans view – and experience – online harassment](http://www.pewresearch.org/fact-tank/2017/07/11/key-takeaways-online-harassment/)
+
