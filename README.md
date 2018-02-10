@@ -86,3 +86,5 @@ Filtering on Yik Yak](http://socialmedia.soc.northwestern.edu/wp-content/uploads
 [Online harm is real](http://www.slate.com/articles/technology/future_tense/2016/11/sexual_harassment_in_virtual_reality_is_real.html)
 
 [My First Virtual Reality Groping](https://medium.com/athena-talks/my-first-virtual-reality-sexual-assault-2330410b62ee)
+
+[The Future of Free Speech, Trolls, Anonymity and Fake News Online](http://www.pewinternet.org/2017/03/29/the-future-of-free-speech-trolls-anonymity-and-fake-news-online/)
