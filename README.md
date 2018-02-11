@@ -93,4 +93,4 @@ Filtering on Yik Yak](http://socialmedia.soc.northwestern.edu/wp-content/uploads
 
 ## Structure Help Links
 
-[Social Media in Public Opinion Research](http://www.aapor.org/Education-Resources/Reports/Social-Media-in-Public-Opinion-Research.aspx#2.0 SOCIAL MEDIA TYPES, USAGE, AND DATA)
+[Social Media in Public Opinion Research](http://www.aapor.org/Education-Resources/Reports/Social-Media-in-Public-Opinion-Research.aspx)
